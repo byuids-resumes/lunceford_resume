@@ -9,7 +9,7 @@ Aspiring Software Engineer
 
 <div id="webaddress">
 <a href="nathanlunceford2@gmail.com">nathanlunceford2@gmail.com</a>
-| <a href="linkedin.com/in/nathan-lunceford-b54802192">LinkedIn</a>
+| <a href="https://linkedin.com/in/nathan-lunceford-b54802192">LinkedIn</a>
 | <a href="https://github.com/nlunce">GitHub</a>
 </div>
 
@@ -23,15 +23,6 @@ Aspiring Software Engineer
 - 4.0 Major GPA
 
 ## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-**Pacific Northwest National Lab**, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
 
 ### Freelance Software Developer
 

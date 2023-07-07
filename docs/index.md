@@ -22,9 +22,9 @@ Aspiring Software Engineer
 
 - 4.0 Major GPA
 
-## Related Experience
+## Experience
 
-### Freelance Software Developer
+## Freelance Software Developer
 
 `January 2016 - Present`
 **Self-Employed**
@@ -36,7 +36,7 @@ Aspiring Software Engineer
 - Demonstrated end-to-end understanding of project components, features, and systems, addressing client requirements
   and delivering high-quality solutions across 20+ projects with diverse scopes and complexities
 
-### Math Instructor
+## Math Instructor
 
 `January 2023 - Present`
 **Mathnasium**
